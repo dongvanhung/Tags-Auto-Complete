@@ -1,2 +1,2 @@
-# Tags-Auto-Complete
-Tags Auto Complete Edit Text Widget for Android
+# Tags Auto Complete
+Auto Complete Tags Edit Text Widget for Android
